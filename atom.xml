@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>瑾阅</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-03T15:11:14.494Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>xationy</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你</title>
+    <link href="http://yoursite.com/2018/11/11/test/"/>
+    <id>http://yoursite.com/2018/11/11/test/</id>
+    <published>2018-11-11T04:00:00.000Z</published>
+    <updated>2019-09-03T15:11:14.494Z</updated>
+    
+    <summary type="html">
+    
+      任何事，关于你。
+    
+    </summary>
+    
+    
+      <category term="我在你身边" scheme="http://yoursite.com/categories/%E6%88%91%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9/"/>
+    
+    
+      <category term="旅游" scheme="http://yoursite.com/tags/%E6%97%85%E6%B8%B8/"/>
+    
+  </entry>
+  
+</feed>
