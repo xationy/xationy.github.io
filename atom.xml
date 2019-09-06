@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-05T12:30:40.668Z</updated>
+  <updated>2019-09-06T12:12:00.567Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>味道</title>
+    <link href="http://yoursite.com/2019/09/06/flavor/"/>
+    <id>http://yoursite.com/2019/09/06/flavor/</id>
+    <published>2019-09-06T12:08:14.000Z</published>
+    <updated>2019-09-06T12:12:00.567Z</updated>
+    
+    <content type="html"><![CDATA[<p>最深刻的日子</p><p>搭配不同的味道</p><p>而我不是很好的配料师</p><p>记不起很多事</p><p>于是厨房的调料尝了个遍</p><p>苦的燥音</p><p>辣的耳光</p><p>酸的叹息</p><p>我知道</p><p>留在最后的</p><p>是甜的你</p>]]></content>
+    
+    <summary type="html">
+    
+      眾生皆苦，而親愛的，你是甘甜
+    
+    </summary>
+    
+    
+      <category term="我不在你身邊" scheme="http://yoursite.com/categories/%E6%88%91%E4%B8%8D%E5%9C%A8%E4%BD%A0%E8%BA%AB%E9%82%8A/"/>
+    
+    
+      <category term="胡思亂想" scheme="http://yoursite.com/tags/%E8%83%A1%E6%80%9D%E4%BA%82%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>花裙</title>
