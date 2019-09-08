@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-06T12:12:00.567Z</updated>
+  <updated>2019-09-08T02:08:59.600Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My JinJi</title>
+    <link href="http://yoursite.com/2019/09/08/my-jinji/"/>
+    <id>http://yoursite.com/2019/09/08/my-jinji/</id>
+    <published>2019-09-08T02:05:30.000Z</published>
+    <updated>2019-09-08T02:08:59.600Z</updated>
+    
+    <content type="html"><![CDATA[<p>Every time you lie in my place </p><p>I do want to say</p><p>It’s you, you my babe</p><p>I won’t be too late</p><p>Jinji don’t you cry</p><p>this world out of time</p><p>of time out of mind</p><p>Jinji please don’t cry</p><p>In this world out of time</p><p>Time out of mind</p>]]></content>
+    
+    <summary type="html">
+    
+      Only you can conquer time
+    
+    </summary>
+    
+    
+      <category term="我不在你身邊" scheme="http://yoursite.com/categories/%E6%88%91%E4%B8%8D%E5%9C%A8%E4%BD%A0%E8%BA%AB%E9%82%8A/"/>
+    
+    
+      <category term="歌單" scheme="http://yoursite.com/tags/%E6%AD%8C%E5%96%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>味道</title>
@@ -67,7 +90,7 @@
     <link href="http://yoursite.com/2018/11/11/1/"/>
     <id>http://yoursite.com/2018/11/11/1/</id>
     <published>2018-11-11T04:00:00.000Z</published>
-    <updated>2019-09-04T12:32:01.792Z</updated>
+    <updated>2019-09-08T02:14:03.735Z</updated>
     
     <content type="html"><![CDATA[<p>i know everything hasn’t been quite right with me,but i assure you now,very confidently,that it is going to be all right again,i feel much better now,i really do.</p>]]></content>
     
